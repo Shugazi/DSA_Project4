@@ -28,8 +28,11 @@
 // us award points in the code logic category.
 TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
 
-    if (node.GetValue() == prefix.back())
-        return node; // returns the node once we find the prefix
+    if (node.GetValue() == prefix.back()) {return node;} // returns the node once we find the prefix
+    if(node.GetValue() == NULL) {return node;}
+
+    FindNode(node.GetChildren()[0],prefix,index);
+    FindNode(node.GetChildren()[1],prefix,index);
 
     //FindNode(node.GetChildren(),prefix,0)
 
