@@ -19,6 +19,8 @@
  * of the main function, you can comment out the rest.
  */
 
+"deez nuts"
+
 #include <iostream>
 #include <vector>
 

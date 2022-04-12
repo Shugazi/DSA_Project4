@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main
+# Install script for directory: C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

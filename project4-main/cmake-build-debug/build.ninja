@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target project4_main
 
@@ -49,55 +49,55 @@ cmake_ninja_workdir = C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Stru
 
 build cmake_object_order_depends_target_project4_main: phony || CMakeFiles/project4_main.dir
 
-build CMakeFiles/project4_main.dir/Test-Cases/auto_test1.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/Test-Cases/auto_test1.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/Test-Cases/auto_test1.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/Test-Cases/auto_test1.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\Test-Cases\auto_test1.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir\Test-Cases
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
   TARGET_PDB = project4_main.pdb
 
-build CMakeFiles/project4_main.dir/auto_test1.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/auto_test1.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/auto_test1.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/auto_test1.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\auto_test1.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
   TARGET_PDB = project4_main.pdb
 
-build CMakeFiles/project4_main.dir/autocomplete.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/autocomplete.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/autocomplete.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/autocomplete.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\autocomplete.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
   TARGET_PDB = project4_main.pdb
 
-build CMakeFiles/project4_main.dir/bst_depth.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/bst_depth.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/bst_depth.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/bst_depth.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\bst_depth.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
   TARGET_PDB = project4_main.pdb
 
-build CMakeFiles/project4_main.dir/bst_lca.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/bst_lca.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/bst_lca.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/bst_lca.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\bst_lca.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
   TARGET_PDB = project4_main.pdb
 
-build CMakeFiles/project4_main.dir/bst_validator.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/project4-main/project4-main/bst_validator.cpp || cmake_object_order_depends_target_project4_main
+build CMakeFiles/project4_main.dir/bst_validator.cpp.obj: CXX_COMPILER__project4_main_Debug C$:/Users/Shugazi/Documents/School/Spring$ 2022/Data$ Struct$ &$ Algo$ -$ CS$ 3358/DSA_Project4/project4-main/bst_validator.cpp || cmake_object_order_depends_target_project4_main
   DEP_FILE = CMakeFiles\project4_main.dir\bst_validator.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/."
+  INCLUDES = -I"C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/."
   OBJECT_DIR = CMakeFiles\project4_main.dir
   OBJECT_FILE_DIR = CMakeFiles\project4_main.dir
   TARGET_COMPILE_PDB = CMakeFiles\project4_main.dir\
@@ -127,7 +127,7 @@ build project4_main.exe: CXX_EXECUTABLE_LINKER__project4_main_Debug CMakeFiles/p
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\project4-main\project4-main\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\DSA_Project4\project4-main\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -138,7 +138,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\project4-main\project4-main\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\project4-main\project4-main" -B"C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\project4-main\project4-main\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\DSA_Project4\project4-main\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\DSA_Project4\project4-main" -B"C:\Users\Shugazi\Documents\School\Spring 2022\Data Struct & Algo - CS 3358\DSA_Project4\project4-main\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -156,7 +156,7 @@ build project4_main: phony project4_main.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/project4-main/project4-main/cmake-build-debug
+# Folder: C:/Users/Shugazi/Documents/School/Spring 2022/Data Struct & Algo - CS 3358/DSA_Project4/project4-main/cmake-build-debug
 
 build all: phony project4_main.exe
 
