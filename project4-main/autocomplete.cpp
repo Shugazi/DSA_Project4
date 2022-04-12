@@ -31,6 +31,9 @@ TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
   return TreeNode<char>();
 }
 
+
+
+
 /** QUESTION 2: COLLECTWORDS **/
 
 // EFFECTS: Collects all the words starting from a given TreeNode. For each word, 
@@ -45,7 +48,8 @@ TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
 // COMMENTS:
 // Add comments here that might help us to understand your thought process,
 // especially if you're unable to finish the pseudocode or code. This can help
-// us award points in the code logic category.  
+// us award points in the code logic category.
+/*
 void CollectWords(TreeNode<char> node, std::string prefix, std::vector<std::string> &results) {
   // Implement this function.
 }
@@ -64,8 +68,11 @@ void CollectWords(TreeNode<char> node, std::string prefix, std::vector<std::stri
 // COMMENTS:
 // Add comments here that might help us to understand your thought process,
 // especially if you're unable to finish the pseudocode or code. This can help
-// us award points in the code logic category.  
+// us award points in the code logic category.
+
+/*
 std::vector<std::string> GetCandidates(TreeNode<char> root, std::string prefix) {
   // Implement this function.
   return std::vector<std::string>();
 }
+*/
