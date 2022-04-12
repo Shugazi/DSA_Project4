@@ -27,7 +27,10 @@
 // especially if you're unable to finish the pseudocode or code. This can help
 // us award points in the code logic category.
 TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
-  // Implement this function.
+
+
+
+
   return TreeNode<char>();
 }
 

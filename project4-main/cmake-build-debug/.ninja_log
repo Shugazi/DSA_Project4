@@ -1,0 +1,13 @@
+# ninja log v5
+29	1301	6714855878909591	CMakeFiles/project4_main.dir/autocomplete.cpp.obj	1f1a3c6f0692fffb
+37	1699	6714855882809587	CMakeFiles/project4_main.dir/bst_depth.cpp.obj	d6a6e40ee0c5e214
+49	1716	6714855883109589	CMakeFiles/project4_main.dir/bst_validator.cpp.obj	6fb6689f93d7ad7d
+44	1722	6714855883209594	CMakeFiles/project4_main.dir/bst_lca.cpp.obj	7c42f231583eea50
+25	1733	6714855883309588	CMakeFiles/project4_main.dir/auto_test1.cpp.obj	3224a8d7b47ed265
+1	1916	6714855885209605	CMakeFiles/project4_main.dir/Test-Cases/auto_test1.cpp.obj	3511dad4be1ae579
+59	219	6714856894981051	CMakeFiles/project4_main.dir/bst_lca.cpp.obj	7c42f231583eea50
+49	222	6714856894981051	CMakeFiles/project4_main.dir/bst_depth.cpp.obj	d6a6e40ee0c5e214
+65	224	6714856895181063	CMakeFiles/project4_main.dir/bst_validator.cpp.obj	6fb6689f93d7ad7d
+53	1140	6714856904131454	CMakeFiles/project4_main.dir/autocomplete.cpp.obj	1f1a3c6f0692fffb
+20	1715	6714856910029989	CMakeFiles/project4_main.dir/auto_test1.cpp.obj	3224a8d7b47ed265
+44	1804	6714856910929986	CMakeFiles/project4_main.dir/Test-Cases/auto_test1.cpp.obj	3511dad4be1ae579
