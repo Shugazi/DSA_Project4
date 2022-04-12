@@ -26,13 +26,13 @@
 // Add comments here that might help us to understand your thought process,
 // especially if you're unable to finish the pseudocode or code. This can help
 // us award points in the code logic category.
-TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
-
-
-
-
-  return TreeNode<char>();
-}
+//TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
+//
+//
+//
+//
+//  return TreeNode<char>();
+//}
 
 
 
