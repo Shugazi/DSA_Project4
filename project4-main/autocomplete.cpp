@@ -26,13 +26,19 @@
 // Add comments here that might help us to understand your thought process,
 // especially if you're unable to finish the pseudocode or code. This can help
 // us award points in the code logic category.
-//TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
-//
-//
-//
-//
-//  return TreeNode<char>();
-//}
+TreeNode<char> FindNode(TreeNode<char> node, std::string prefix, int index) {
+
+    if (node.GetValue() == prefix.back())
+        return node; // returns the node once we find the prefix
+
+    //FindNode(node.GetChildren(),prefix,0)
+
+
+
+
+
+  return TreeNode<char>();
+}
 
 
 

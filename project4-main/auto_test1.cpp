@@ -111,28 +111,28 @@ int main() {
   end_node = FindNode(example, "notInTree", 0);
   std::cout << (end_node.IsEmpty() ? "true" : "false") << std::endl; // Should output true
 
-  // Q2 Examples
-  std::vector<std::string> example_list = std::vector<std::string>();
-  CollectWords(example.GetChildren()[1], "", example_list);
-  PrintVector(example_list); // Should output ["eam" "eef" "ees"]
-
-  example_list.clear();
-  CollectWords(example.GetChildren()[1], "b", example_list);
-  PrintVector(example_list); // Should output ["beam" "beef" "bees"]
-
-  example_list.clear();
-  CollectWords(example.GetChildren()[1], "mm", example_list);
-  PrintVector(example_list); // Should output ["mmeam" "mmeef" "mmees"]
-
-  // Q3 Examples
-  PrintVector(GetCandidates(example, "c")); // Should output ["cat" "cow" "cut"]
-  PrintVector(GetCandidates(example, "ca")); // Should output ["cat"]
-  PrintVector(GetCandidates(example, "an")); // Should output ["and" "andrew"]
-
-  // Should output ["ace" "acne" "and" "andrew" "beam" "beef" "bees" "cat" "cow" "cut"]
-  PrintVector(GetCandidates(example, ""));
-  PrintVector(GetCandidates(example, "deer")); // Should output []
-  PrintVector(GetCandidates(example, "bean")); // Should output []
+//  // Q2 Examples
+//  std::vector<std::string> example_list = std::vector<std::string>();
+//  CollectWords(example.GetChildren()[1], "", example_list);
+//  PrintVector(example_list); // Should output ["eam" "eef" "ees"]
+//
+//  example_list.clear();
+//  CollectWords(example.GetChildren()[1], "b", example_list);
+//  PrintVector(example_list); // Should output ["beam" "beef" "bees"]
+//
+//  example_list.clear();
+//  CollectWords(example.GetChildren()[1], "mm", example_list);
+//  PrintVector(example_list); // Should output ["mmeam" "mmeef" "mmees"]
+//
+//  // Q3 Examples
+//  PrintVector(GetCandidates(example, "c")); // Should output ["cat" "cow" "cut"]
+//  PrintVector(GetCandidates(example, "ca")); // Should output ["cat"]
+//  PrintVector(GetCandidates(example, "an")); // Should output ["and" "andrew"]
+//
+//  // Should output ["ace" "acne" "and" "andrew" "beam" "beef" "bees" "cat" "cow" "cut"]
+//  PrintVector(GetCandidates(example, ""));
+//  PrintVector(GetCandidates(example, "deer")); // Should output []
+//  PrintVector(GetCandidates(example, "bean")); // Should output []
   
   return 0;
 }
